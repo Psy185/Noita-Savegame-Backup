@@ -16,8 +16,8 @@ These simple batch files backup and restore save games for the game Noita. In ca
 ## Restore a backup
 - If you died or just want to restore a backup, just exit the game
 - navigate to the above mentioned directory and run the script (or use shortcuts for the batch files)
-- ```restore.bat``` will only restore the last backup
-- ```restoreAndLaunch.bat``` will restore the last backup and launch Noita
+- ```restore.bat``` will only restore the latest backup
+- ```restoreAndLaunch.bat``` will restore the latest backup and launch Noita
 
 ## Additional info
 - ```save_00``` is always the current save game
